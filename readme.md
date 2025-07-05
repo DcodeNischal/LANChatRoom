@@ -155,43 +155,43 @@ _This project implements a **cross-platform LAN Chat Room** using C/C++ and nati
 
 **A view of the chat client console, showing messages being exchanged.**
 
-![C](readmeimage\message.png)
+![C](readmeimage/message.png)
 
 ### Authentication
 
 **Screenshot of the client during the authentication process.**
 
-![A](readmeimage\authentication.png)
+![A](readmeimage/authentication.png)
 
 ### File Upload in Action
 
 **A screenshot demonstrating the file upload process and progress.**
 
-![U](readmeimage\upload.png)
+![U](readmeimage/upload.png)
 
 ### File Download in Action
 
 **A screenshot demonstrating the file download process and progress.**
 
-![D](readmeimage\download.png)
+![D](readmeimage/download.png)
 
 ### List Files on Server
 
 **A view of the client console showing the list of files available on the server.**
 
-![L](readmeimage\listfiles.png)
+![L](readmeimage/listfiles.png)
 
 ### List Connected Clients
 
 **A view of the client console showing the list of currently connected clients.**
 
-![C](readmeimage\clientlist.png)
+![C](readmeimage/clientlist.png)
 
 ### Help Command Output
 
 **A screenshot showing the output of the **`/help`** command.**
 
-![H](readmeimage\help.png)
+![H](readmeimage/help.png)
 
 ## Notes and Limitations
 
